@@ -1,0 +1,1254 @@
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=2
+Acurácia unigrama - cosseno vetorial: 
+ 0.84
+Acurácia bigrama - cosseno vetorial: 
+ 0.84
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.86
+Acurácia unigrama + bigrama - distancia: 
+ 0.76
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.73
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.84
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=2
+Acurácia unigrama - cosseno vetorial: 
+ 0.84
+Acurácia bigrama - cosseno vetorial: 
+ 0.83
+Acurácia unigrama - distancia: 
+ 0.78
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.86
+Acurácia unigrama + bigrama - distancia: 
+ 0.76
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.80
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.67
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=2
+Acurácia unigrama - cosseno vetorial: 
+ 0.83
+Acurácia bigrama - cosseno vetorial: 
+ 0.86
+Acurácia unigrama - distancia: 
+ 0.72
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.86
+Acurácia unigrama + bigrama - distancia: 
+ 0.67
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.72
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.83
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=2
+Acurácia unigrama - cosseno vetorial: 
+ 0.85
+Acurácia bigrama - cosseno vetorial: 
+ 0.85
+Acurácia unigrama - distancia: 
+ 0.75
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.86
+Acurácia unigrama + bigrama - distancia: 
+ 0.70
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.79
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.76
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7724.00', '189.00')
+Dimensão do espaço semantico - k=2
+Acurácia unigrama - cosseno vetorial: 
+ 0.85
+Acurácia bigrama - cosseno vetorial: 
+ 0.85
+Acurácia unigrama - distancia: 
+ 0.80
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.86
+Acurácia unigrama + bigrama - distancia: 
+ 0.89
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.85
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.88
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7721.00', '189.00')
+Dimensão do espaço semantico - k=3
+Acurácia unigrama - cosseno vetorial: 
+ 0.84
+Acurácia bigrama - cosseno vetorial: 
+ 0.83
+Acurácia unigrama - distancia: 
+ 0.75
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.85
+Acurácia unigrama + bigrama - distancia: 
+ 0.69
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.81
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.82
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=3
+Acurácia unigrama - cosseno vetorial: 
+ 0.82
+Acurácia bigrama - cosseno vetorial: 
+ 0.81
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.82
+Acurácia unigrama + bigrama - distancia: 
+ 0.88
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.89
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.77
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=3
+Acurácia unigrama - cosseno vetorial: 
+ 0.82
+Acurácia bigrama - cosseno vetorial: 
+ 0.82
+Acurácia unigrama - distancia: 
+ 0.73
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.83
+Acurácia unigrama + bigrama - distancia: 
+ 0.71
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.82
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.82
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=3
+Acurácia unigrama - cosseno vetorial: 
+ 0.81
+Acurácia bigrama - cosseno vetorial: 
+ 0.81
+Acurácia unigrama - distancia: 
+ 0.78
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.82
+Acurácia unigrama + bigrama - distancia: 
+ 0.89
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.87
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.88
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=3
+Acurácia unigrama - cosseno vetorial: 
+ 0.84
+Acurácia bigrama - cosseno vetorial: 
+ 0.85
+Acurácia unigrama - distancia: 
+ 0.73
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.86
+Acurácia unigrama + bigrama - distancia: 
+ 0.72
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.84
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.82
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7721.00', '189.00')
+Dimensão do espaço semantico - k=4
+Acurácia unigrama - cosseno vetorial: 
+ 0.80
+Acurácia bigrama - cosseno vetorial: 
+ 0.80
+Acurácia unigrama - distancia: 
+ 0.80
+Acurácia bigrama - distancia: 
+ 0.74
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.80
+Acurácia unigrama + bigrama - distancia: 
+ 0.88
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.84
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.85
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=4
+Acurácia unigrama - cosseno vetorial: 
+ 0.83
+Acurácia bigrama - cosseno vetorial: 
+ 0.81
+Acurácia unigrama - distancia: 
+ 0.83
+Acurácia bigrama - distancia: 
+ 0.88
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.83
+Acurácia unigrama + bigrama - distancia: 
+ 0.79
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.85
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.81
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=4
+Acurácia unigrama - cosseno vetorial: 
+ 0.82
+Acurácia bigrama - cosseno vetorial: 
+ 0.81
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.83
+Acurácia unigrama + bigrama - distancia: 
+ 0.87
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.82
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.88
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=4
+Acurácia unigrama - cosseno vetorial: 
+ 0.82
+Acurácia bigrama - cosseno vetorial: 
+ 0.82
+Acurácia unigrama - distancia: 
+ 0.74
+Acurácia bigrama - distancia: 
+ 0.66
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.82
+Acurácia unigrama + bigrama - distancia: 
+ 0.84
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.81
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.86
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7724.00', '189.00')
+Dimensão do espaço semantico - k=4
+Acurácia unigrama - cosseno vetorial: 
+ 0.84
+Acurácia bigrama - cosseno vetorial: 
+ 0.82
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.85
+Acurácia unigrama + bigrama - distancia: 
+ 0.89
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.82
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.88
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=5
+Acurácia unigrama - cosseno vetorial: 
+ 0.82
+Acurácia bigrama - cosseno vetorial: 
+ 0.84
+Acurácia unigrama - distancia: 
+ 0.73
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.85
+Acurácia unigrama + bigrama - distancia: 
+ 0.73
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.80
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.84
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=5
+Acurácia unigrama - cosseno vetorial: 
+ 0.81
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.82
+Acurácia bigrama - distancia: 
+ 0.77
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.82
+Acurácia unigrama + bigrama - distancia: 
+ 0.86
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.83
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.86
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=5
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.84
+Acurácia bigrama - distancia: 
+ 0.88
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.80
+Acurácia unigrama + bigrama - distancia: 
+ 0.81
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.80
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.79
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7721.00', '189.00')
+Dimensão do espaço semantico - k=5
+Acurácia unigrama - cosseno vetorial: 
+ 0.79
+Acurácia bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama - distancia: 
+ 0.78
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.80
+Acurácia unigrama + bigrama - distancia: 
+ 0.83
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.72
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.85
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=5
+Acurácia unigrama - cosseno vetorial: 
+ 0.81
+Acurácia bigrama - cosseno vetorial: 
+ 0.81
+Acurácia unigrama - distancia: 
+ 0.77
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.83
+Acurácia unigrama + bigrama - distancia: 
+ 0.79
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.78
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.80
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=6
+Acurácia unigrama - cosseno vetorial: 
+ 0.81
+Acurácia bigrama - cosseno vetorial: 
+ 0.80
+Acurácia unigrama - distancia: 
+ 0.77
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.81
+Acurácia unigrama + bigrama - distancia: 
+ 0.76
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.73
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.75
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=6
+Acurácia unigrama - cosseno vetorial: 
+ 0.80
+Acurácia bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama - distancia: 
+ 0.74
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.80
+Acurácia unigrama + bigrama - distancia: 
+ 0.77
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.80
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7721.00', '189.00')
+Dimensão do espaço semantico - k=6
+Acurácia unigrama - cosseno vetorial: 
+ 0.78
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.81
+Acurácia bigrama - distancia: 
+ 0.71
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama + bigrama - distancia: 
+ 0.78
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.76
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.76
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=6
+Acurácia unigrama - cosseno vetorial: 
+ 0.80
+Acurácia bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama - distancia: 
+ 0.74
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama + bigrama - distancia: 
+ 0.74
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.74
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=6
+Acurácia unigrama - cosseno vetorial: 
+ 0.81
+Acurácia bigrama - cosseno vetorial: 
+ 0.82
+Acurácia unigrama - distancia: 
+ 0.73
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.83
+Acurácia unigrama + bigrama - distancia: 
+ 0.74
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.72
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.79
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=7
+Acurácia unigrama - cosseno vetorial: 
+ 0.79
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.79
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama + bigrama - distancia: 
+ 0.69
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.78
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.76
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=7
+Acurácia unigrama - cosseno vetorial: 
+ 0.81
+Acurácia bigrama - cosseno vetorial: 
+ 0.80
+Acurácia unigrama - distancia: 
+ 0.73
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.81
+Acurácia unigrama + bigrama - distancia: 
+ 0.73
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.79
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.80
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=7
+Acurácia unigrama - cosseno vetorial: 
+ 0.77
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.82
+Acurácia bigrama - distancia: 
+ 0.88
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.84
+Acurácia unigrama + bigrama - distancia: 
+ 0.81
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.88
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.80
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=7
+Acurácia unigrama - cosseno vetorial: 
+ 0.78
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.77
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama + bigrama - distancia: 
+ 0.76
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.76
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.77
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=7
+Acurácia unigrama - cosseno vetorial: 
+ 0.78
+Acurácia bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama - distancia: 
+ 0.73
+Acurácia bigrama - distancia: 
+ 0.68
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama + bigrama - distancia: 
+ 0.75
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.75
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=8
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.85
+Acurácia bigrama - distancia: 
+ 0.88
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama + bigrama - distancia: 
+ 0.85
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.78
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.76
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7724.00', '189.00')
+Dimensão do espaço semantico - k=8
+Acurácia unigrama - cosseno vetorial: 
+ 0.77
+Acurácia bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama - distancia: 
+ 0.78
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama + bigrama - distancia: 
+ 0.88
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.76
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=8
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama - distancia: 
+ 0.79
+Acurácia bigrama - distancia: 
+ 0.71
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama + bigrama - distancia: 
+ 0.89
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.75
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7721.00', '189.00')
+Dimensão do espaço semantico - k=8
+Acurácia unigrama - cosseno vetorial: 
+ 0.79
+Acurácia bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama - distancia: 
+ 0.77
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama + bigrama - distancia: 
+ 0.77
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=8
+Acurácia unigrama - cosseno vetorial: 
+ 0.80
+Acurácia bigrama - cosseno vetorial: 
+ 0.80
+Acurácia unigrama - distancia: 
+ 0.75
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.80
+Acurácia unigrama + bigrama - distancia: 
+ 0.76
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.79
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.81
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=9
+Acurácia unigrama - cosseno vetorial: 
+ 0.78
+Acurácia bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama - distancia: 
+ 0.77
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama + bigrama - distancia: 
+ 0.78
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.79
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=9
+Acurácia unigrama - cosseno vetorial: 
+ 0.77
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama + bigrama - distancia: 
+ 0.84
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.75
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.82
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=9
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama - distancia: 
+ 0.80
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama + bigrama - distancia: 
+ 0.79
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.75
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.85
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=9
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama - distancia: 
+ 0.79
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama + bigrama - distancia: 
+ 0.75
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.76
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.75
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=9
+Acurácia unigrama - cosseno vetorial: 
+ 0.77
+Acurácia bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama - distancia: 
+ 0.77
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.88
+Acurácia unigrama + bigrama - distancia: 
+ 0.78
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.79
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.88
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=10
+Acurácia unigrama - cosseno vetorial: 
+ 0.78
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.75
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama + bigrama - distancia: 
+ 0.77
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=10
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.73
+Acurácia unigrama - distancia: 
+ 0.80
+Acurácia bigrama - distancia: 
+ 0.88
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama + bigrama - distancia: 
+ 0.79
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.75
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.77
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=10
+Acurácia unigrama - cosseno vetorial: 
+ 0.78
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.75
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama + bigrama - distancia: 
+ 0.79
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=10
+Acurácia unigrama - cosseno vetorial: 
+ 0.75
+Acurácia bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama - distancia: 
+ 0.78
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama + bigrama - distancia: 
+ 0.77
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.74
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.74
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7721.00', '189.00')
+Dimensão do espaço semantico - k=10
+Acurácia unigrama - cosseno vetorial: 
+ 0.73
+Acurácia bigrama - cosseno vetorial: 
+ 0.73
+Acurácia unigrama - distancia: 
+ 0.84
+Acurácia bigrama - distancia: 
+ 0.88
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.74
+Acurácia unigrama + bigrama - distancia: 
+ 0.81
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.73
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=11
+Acurácia unigrama - cosseno vetorial: 
+ 0.74
+Acurácia bigrama - cosseno vetorial: 
+ 0.73
+Acurácia unigrama - distancia: 
+ 0.82
+Acurácia bigrama - distancia: 
+ 0.88
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama + bigrama - distancia: 
+ 0.81
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.74
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.81
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=11
+Acurácia unigrama - cosseno vetorial: 
+ 0.77
+Acurácia bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama + bigrama - distancia: 
+ 0.76
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.78
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.79
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=11
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama + bigrama - distancia: 
+ 0.87
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.76
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.76
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=11
+Acurácia unigrama - cosseno vetorial: 
+ 0.78
+Acurácia bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama + bigrama - distancia: 
+ 0.88
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.78
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.81
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=11
+Acurácia unigrama - cosseno vetorial: 
+ 0.77
+Acurácia bigrama - cosseno vetorial: 
+ 0.78
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.69
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama + bigrama - distancia: 
+ 0.73
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.78
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.79
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7721.00', '189.00')
+Dimensão do espaço semantico - k=12
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama - distancia: 
+ 0.78
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama + bigrama - distancia: 
+ 0.79
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.76
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.77
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=12
+Acurácia unigrama - cosseno vetorial: 
+ 0.71
+Acurácia bigrama - cosseno vetorial: 
+ 0.70
+Acurácia unigrama - distancia: 
+ 0.87
+Acurácia bigrama - distancia: 
+ 0.89
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.71
+Acurácia unigrama + bigrama - distancia: 
+ 0.74
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.73
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.74
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=12
+Acurácia unigrama - cosseno vetorial: 
+ 0.75
+Acurácia bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama - distancia: 
+ 0.79
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama + bigrama - distancia: 
+ 0.77
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.73
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.74
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7721.00', '189.00')
+Dimensão do espaço semantico - k=12
+Acurácia unigrama - cosseno vetorial: 
+ 0.74
+Acurácia bigrama - cosseno vetorial: 
+ 0.72
+Acurácia unigrama - distancia: 
+ 0.86
+Acurácia bigrama - distancia: 
+ 0.87
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.73
+Acurácia unigrama + bigrama - distancia: 
+ 0.84
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.75
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.72
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=12
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.74
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama + bigrama - distancia: 
+ 0.74
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.76
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.75
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=13
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama + bigrama - distancia: 
+ 0.76
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.76
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=13
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.77
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama + bigrama - distancia: 
+ 0.76
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.78
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=13
+Acurácia unigrama - cosseno vetorial: 
+ 0.77
+Acurácia bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama + bigrama - distancia: 
+ 0.73
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.77
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7721.00', '189.00')
+Dimensão do espaço semantico - k=13
+Acurácia unigrama - cosseno vetorial: 
+ 0.74
+Acurácia bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama - distancia: 
+ 0.81
+Acurácia bigrama - distancia: 
+ 0.70
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.76
+Acurácia unigrama + bigrama - distancia: 
+ 0.81
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.74
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.76
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=13
+Acurácia unigrama - cosseno vetorial: 
+ 0.74
+Acurácia bigrama - cosseno vetorial: 
+ 0.71
+Acurácia unigrama - distancia: 
+ 0.81
+Acurácia bigrama - distancia: 
+ 0.72
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.73
+Acurácia unigrama + bigrama - distancia: 
+ 0.86
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.72
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=14
+Acurácia unigrama - cosseno vetorial: 
+ 0.75
+Acurácia bigrama - cosseno vetorial: 
+ 0.73
+Acurácia unigrama - distancia: 
+ 0.84
+Acurácia bigrama - distancia: 
+ 0.88
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.74
+Acurácia unigrama + bigrama - distancia: 
+ 0.77
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.77
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=14
+Acurácia unigrama - cosseno vetorial: 
+ 0.73
+Acurácia bigrama - cosseno vetorial: 
+ 0.74
+Acurácia unigrama - distancia: 
+ 0.78
+Acurácia bigrama - distancia: 
+ 0.71
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama + bigrama - distancia: 
+ 0.86
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.76
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.75
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=14
+Acurácia unigrama - cosseno vetorial: 
+ 0.76
+Acurácia bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama - distancia: 
+ 0.76
+Acurácia bigrama - distancia: 
+ 0.71
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama + bigrama - distancia: 
+ 0.73
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.77
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.77
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=14
+Acurácia unigrama - cosseno vetorial: 
+ 0.72
+Acurácia bigrama - cosseno vetorial: 
+ 0.70
+Acurácia unigrama - distancia: 
+ 0.85
+Acurácia bigrama - distancia: 
+ 0.87
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.79
+Acurácia unigrama + bigrama - distancia: 
+ 0.85
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.72
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.87
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=14
+Acurácia unigrama - cosseno vetorial: 
+ 0.73
+Acurácia bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama - distancia: 
+ 0.78
+Acurácia bigrama - distancia: 
+ 0.71
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.75
+Acurácia unigrama + bigrama - distancia: 
+ 0.72
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.74
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.76
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7723.00', '189.00')
+Dimensão do espaço semantico - k=14
+Acurácia unigrama - cosseno vetorial: 
+ 0.73
+Acurácia bigrama - cosseno vetorial: 
+ 0.73
+Acurácia unigrama - distancia: 
+ 0.82
+Acurácia bigrama - distancia: 
+ 0.71
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.73
+Acurácia unigrama + bigrama - distancia: 
+ 0.81
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.75
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.72

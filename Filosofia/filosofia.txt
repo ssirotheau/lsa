@@ -1,0 +1,19 @@
+Dimensões da matriz termo-documento: 
+('1665.00', '189.00', '7722.00', '189.00')
+Dimensão do espaço semantico - k=14
+Acurácia unigrama - cosseno vetorial: 
+ 0.83
+Acurácia bigrama - cosseno vetorial: 
+ 0.82
+Acurácia unigrama - distancia: 
+ 0.73
+Acurácia bigrama - distancia: 
+ 0.67
+Acurácia unigrama + bigrama - cosseno vetorial: 
+ 0.83
+Acurácia unigrama + bigrama - distancia: 
+ 0.89
+Acurácia unigrama  - cosseno vs distancia: 
+ 0.83
+Acurácia bigrama  - cosseno vs distancia: 
+ 0.87
